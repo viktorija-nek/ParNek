@@ -1,0 +1,90 @@
+ParNek - General Terms of Use
+
+Last updated March 22, 2019. Replaces all prior versions.
+
+These General Terms of Use, along with any applicable Additional, Subscription and/or Cancellation terms (collectively "Terms") govern your use of our software (collectively “Services”), as well as any sample files, content files, scripts, source code, instruction sets, and related documentation (collectively “Software”). Our Software is licensed, not sold, to you. If there is any conflict between the terms in the General Terms and the Additional Terms, then the Additional Terms govern in relation to that Service or Software. Additional Terms are subject to change.
+
+License
+Subject to your compliance with the Terms and the law, you may access and use the Services and Software.
+ 
+Intellectual Property
+We (Viktorija Nekrasaite and Andrew Parli) remain the sole owners of all rights, title, and interest in the Services or Software. Except as stated in the Terms, we do not grant you any rights to patents, copyrights, trade secrets, trademarks, or any other rights in respect to the items in the Services or Software. We reserve all rights not granted under the Terms.
+
+Content Files
+Content files means ParNek assets provided as part of the Services and Software. Unless documentation or specific licenses state otherwise, we grant you a personal, non-exclusive, non-sublicensable, and non-transferable license to use the content files to create your end use (i.e., the derivative application or product authored by you) into which the content files, or derivations thereof, are embedded for your use ("End Use"). You may modify the content files prior to embedding them in the End Use. You may reproduce and distribute content files only in connection with your End Use, however, under no circumstances can you distribute the content files on a stand-alone basis, outside of the End Use.
+
+
+Other License Types
+ 
+Education Version
+If we designate the Services or Software as for use by educational users (“Educational Version”), then you may only use the Educational Version if you meet the eligibility requirements stated in the "Eligibility Requirements" section below. You may install and use the Educational Version only in the country where you are qualified as an educational user. If you reside in the European Economic Area, then the word “country” in the prior sentence means the European Economic Area. 
+
+Eligibility Requirements (Education Version)
+While using the Services and Software, you are enrolled as a full or part-time student at a primary school, university or similar educational institution. The Educational Version may not be installed or used as part of a commercial business. 
+
+Research Version
+If we designate the Services or Software as for use by research users (“Research Version”), then you may only use the Research Version if you meet the eligibility requirements stated in the "Eligibility Requirements" section below. You may install and use the Research Version only in the country where you are qualified as a research user. If you reside in the European Economic Area, then the word “country” in the prior sentence means the European Economic Area. 
+
+Eligibility Requirements (Research Version)
+You are performing research at an educational institution or other research organization. The Research Version may not be installed or used as part of a commercial business. 
+
+
+Your Content
+"Content" means any material, such as data files, that you import into the Services or Software in connection with your use of the Services. You retain all rights and ownership of your Content. We do not claim any ownership rights to your Content.
+ 
+
+User Conduct
+You must not misuse the Services or Software. For example, you must not:
+	(a) copy, modify, host, stream, sublicense, or resell the Services or Software;
+	(b) enable or allow others to use the Services or Software under your license;
+ 	(c) access or attempt to access the Services or Software by any means other than the interface we provide or authorize;
+ 	(d) circumvent any access or use restrictions put into place to prevent certain uses of the Services or Software;
+	(e) engage in behavior that violates intellectual property rights (“Intellectual Property Rights” means copyright, moral rights, trademark, trade dress, patent, trade secret, unfair competition, right of privacy, right of publicity, and any other proprietary rights);
+	(f) attempt to disable, impair, or destroy the Services and Software;
+ 
+
+Your Warranty and Indemnification Obligations.
+By importing your Content to the Services or Software, you agree that you have: 
+	(a) all necessary licenses and permissions to use and Share your Content; 
+	(b) the rights necessary to grant the licenses in the Terms.
+ 
+You will indemnify us from any claim, demand, loss, or damage, including reasonable attorneys’ fees, arising out of or related to your Content, your use of the Services or Software, or your violation of the Terms.
+ 
+Unless stated in the Additional Terms, the Services and Software are provided “AS-IS.” To the maximum extent permitted by law, we disclaim all warranties, express or implied, including the implied warranties of non-infringement, merchantability, and fitness for a particular purpose. We make no commitments about the content within the Services. We further disclaim any warranty that (a) the Services or Software will meet your requirements or will be constantly available, uninterrupted, timely, secure, or error-free; (b) the results obtained from the use of the Services or Software will be effective, accurate, or reliable; (c) the quality of the Services or Software will meet your expectations; or (d) any errors or defects in the Services or Software will be corrected.
+ 
+We specifically disclaim all liability for any actions resulting from your use of any Services or Software. You may use and access the Services or Software at your own discretion and risk, and you are solely responsible for any damage to your computer system or loss of data that results from the use of and access to any Service or Software.
+ 
+
+Limitation of Liability.
+Unless stated in the Additional Terms, we are not liable to you or anyone else for any loss of use, data, goodwill, or profits, whatsoever, and any special, incidental, indirect, consequential, or punitive damages whatsoever, regardless of cause (even if we have been advised of the possibility of the loss or damages), including losses and damages (a) resulting from loss of use, data, or profits, whether or not foreseeable; (b) based on any theory of liability, including breach of contract or warranty, negligence or other tortious action; or (c) arising from any other claim arising out of or in connection with your use of or access to the Services or Software. Nothing in the Terms limits or excludes our liability for gross negligence, for our, or our employees’, intentional misconduct, or for death or personal injury.
+
+Our total liability in any matter arising out of or related to the Terms is limited to US $1.00. This limitation will apply regardless of the form or source of claim or loss, whether the claim or loss was foreseeable, and whether a party has been advised of the possibility of the claim or loss.
+
+The limitations and exclusions in this section apply to the maximum extent permitted by law.
+
+
+Termination.
+You may stop using the Services and Software at any time. Termination of use does not relieve you of any obligation to pay any outstanding fees.
+ 
+Unless stated in any Additional Terms, we may, at any time, terminate your right to use and access the Services or Software if:
+ 
+	(a) you breach any provision of the Terms (or act in a manner that clearly shows you do not intend to, or are unable to, comply with the Terms);
+	(b) you fail to make the timely payment of fees for the Services or Software, if any;
+	(c) you materially breach any provision of the Terms, and (i) the breach cannot be corrected; or (ii) we notify you of the breach and you fail to correct it within 14 days of the notice;
+	(d) you have repeatedly made complaints in bad faith or without a reasonable basis, and continue to do so after we have asked you to stop (in such circumstances, we may alternatively suspend or restrict your access to the Services or Software);
+	(f) we are required to do so by law (for example, where the provision of the Services or Software to you is, or becomes, unlawful);
+	(g) we elect to discontinue the Services or Software, in whole or in part (such as if it becomes impractical for us to continue offering Services in your region due to change of law);
+
+Upon the expiration or termination of the Terms, some or all of the Services and Software may cease to operate without prior notice. Any perpetual licenses you have will continue in full force and effect, however. Your indemnification obligations, our warranty disclaimers or limitations of liabilities, and dispute resolution provisions stated in the Terms will survive. 
+
+We may modify these General Terms, any Additional Terms or Subscription and Cancellation terms, for example, to reflect changes to the law or changes to our Services or Software. You should look at the Terms regularly. We will post notice of modifications to these General Terms and Additional Terms on this page. By continuing to use or access the Services or Software after the revisions are in effect, you agree to be bound by the revised Terms.
+ 
+We may modify, update, or discontinue the Services or Software (including any portions or features) at any time, without liability to you or anyone else. 
+ 
+You may not assign or otherwise transfer the Terms or your rights and obligations under the Terms, in whole or in part, without our written consent, and any such attempt will be void. We may transfer our rights under the Terms to a third party.
+ 
+Headings used in these General Terms or Additional Terms are provided for convenience only and will not be used to construe meaning or intent.
+ 
+If any provision of these General Terms or any Additional Terms is held invalid or unenforceable for any reason, the General Terms and any Additional Terms will continue in full force and effect. 
+ 
+Our failure to enforce or exercise any provision of the Terms is not a waiver of that provision.
