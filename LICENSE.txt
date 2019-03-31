@@ -1,4 +1,8 @@
-ParNek - General Terms of Use
+License Version
+ParNek (version 1.0.0) is licensed on github.com as a Research Version. By using ParNek, you agree to the General Terms of Use below. 
+
+
+General Terms of Use
 
 Last updated March 22, 2019. Replaces all prior versions.
 
